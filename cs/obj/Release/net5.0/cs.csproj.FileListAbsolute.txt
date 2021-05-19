@@ -1,0 +1,16 @@
+D:\Acmion\Projects\ComparisonCythonPythonJuliaC\cs\bin\Release\net5.0\cs.exe
+D:\Acmion\Projects\ComparisonCythonPythonJuliaC\cs\bin\Release\net5.0\cs.deps.json
+D:\Acmion\Projects\ComparisonCythonPythonJuliaC\cs\bin\Release\net5.0\cs.runtimeconfig.json
+D:\Acmion\Projects\ComparisonCythonPythonJuliaC\cs\bin\Release\net5.0\cs.runtimeconfig.dev.json
+D:\Acmion\Projects\ComparisonCythonPythonJuliaC\cs\bin\Release\net5.0\cs.dll
+D:\Acmion\Projects\ComparisonCythonPythonJuliaC\cs\bin\Release\net5.0\ref\cs.dll
+D:\Acmion\Projects\ComparisonCythonPythonJuliaC\cs\bin\Release\net5.0\cs.pdb
+D:\Acmion\Projects\ComparisonCythonPythonJuliaC\cs\obj\Release\net5.0\cs.csprojAssemblyReference.cache
+D:\Acmion\Projects\ComparisonCythonPythonJuliaC\cs\obj\Release\net5.0\cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Acmion\Projects\ComparisonCythonPythonJuliaC\cs\obj\Release\net5.0\cs.AssemblyInfoInputs.cache
+D:\Acmion\Projects\ComparisonCythonPythonJuliaC\cs\obj\Release\net5.0\cs.AssemblyInfo.cs
+D:\Acmion\Projects\ComparisonCythonPythonJuliaC\cs\obj\Release\net5.0\cs.csproj.CoreCompileInputs.cache
+D:\Acmion\Projects\ComparisonCythonPythonJuliaC\cs\obj\Release\net5.0\cs.dll
+D:\Acmion\Projects\ComparisonCythonPythonJuliaC\cs\obj\Release\net5.0\ref\cs.dll
+D:\Acmion\Projects\ComparisonCythonPythonJuliaC\cs\obj\Release\net5.0\cs.pdb
+D:\Acmion\Projects\ComparisonCythonPythonJuliaC\cs\obj\Release\net5.0\cs.genruntimeconfig.cache
